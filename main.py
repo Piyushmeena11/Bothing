@@ -1008,7 +1008,7 @@ async def txt_handler(bot: Client, m: Message):
         quality = f"{raw_text2}p"
         raw_text3 = '/d'
         CR = f"{CREDIT}"
-        raw_text6 = '/d'
+        raw_text6 = 'https://envs.sh/QSp.jpg'
         thumb = "https://envs.sh/QSp.jpg"
     else:
         await editable.edit(f"**Enter Batch Name or send /d**")
